@@ -1,0 +1,21 @@
+### This small library computes Pearson's r efffect size following analysis of variance (Anova) models in Stata.
+
+
+### Contact
+
+Mike Gruszczynski
+
+- Email: mikewgruz@gmail.com
+- Web: http://mikegruz.wordpress.com
+
+### Installation
+
+This library can be found on the Stata SSC servers by entering the following:
+
+`. findit reffect`
+
+Or can be downloaded here by placing the `.ado` and `.hlp` files within Stata's local library folder.
+
+Copyright (c) 2013, under the Simplified BSD License.
+For more information on FreeBSD see: http://www.opensource.org/licenses/bsd-license.php
+All rights reserved. 
